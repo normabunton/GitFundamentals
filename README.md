@@ -1,7 +1,7 @@
 # Git Exercise
 ## Git Commands
 
-- [git config](./Commands/Config.md)
+- [git config](./Commands/CONFIG.md)
 - [git add .](./Commands/ADD.md)
 - [git commit -m "Initial Commit"](./Commands/COMMIT.md)
 - [git init](./Commands/InIt.md)
